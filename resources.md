@@ -10,6 +10,7 @@
 
 - [Brown U's Carney Institute for Brain Science](https://www.brown.edu/carney/neuroengineering-and-neurotechnology)
 - [Neuromodec](https://neuromodec.org/)
+- [Precision Neuroscience](https://precisionneuro.io/)
 
 ## Journals
 
