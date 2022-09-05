@@ -1,29 +1,52 @@
 # Structure of the Brain
 
-## Three main divisions
+## Three main parts
 
-<img src="../_meta/01_brain-divisions.png" width=300>
+<img src="../_meta/01_brain-parts.png" width=300>
 
 ### Brainstem
 - connects brain to rest of body through spinal cord
 - most of its matter is neural fibers going to and from rest of body
 - has a billion neurons of its own that modulate basic essential functions (eg. breathing, heart rate, body temp, wake/sleep cycle, digestion)
-- made up of pons, medulla
+- made up of the midbrain, pons, medulla
+
+#### Midbrain (aka. mesencephalon)
+- complex structure w/ different neuron clusters, neural pathways
+- facilitates functions such as hearing and movement
+- contains the **substantia nigra**
+
+#### Pons
+- Latin for 'bridge', as it connects the midbrain and the medulla
+- the origin for 4 out of the 12 cranial nerves
+- enables tear production, chewing, blinking, focusing vision, balance, hearing, etc
+
+#### Medulla
+- bottom of the brainstem, where brain meets spinal cord
+- it is essential to survival
+- regulates heart rhythm, breathing, blood flow, oxygen levels, etc
+- involved in sneezing, coughing, swallowing, etc
 
 ### Cerebellum
-- latin for 'little brain'
-- small structure located behind the brainstem
+- Latin for 'little brain'
+- small structure located behind the brainstem; also has 2 hemispheres
 - small but has tight folds - holds half of all neurons in the brain
 - cerebellum is much older than the cerebrum (evolutionarily speaking)
 - coordinates voluntary motor movements such as posture and balance; important for learning motor skills
 - may have a role in speech
 
-### Cerebrum (aka. cerebral cortex)
+### Cerebrum
 - upper portion of the brain split into left and right hemispheres
 - responsible for most cognitive processing (sensory procsesing, generation of motor commands, executive functioning, memory formation, emotional regulation)
-- gyri (hills), sulci (valleys) - folds of brain
+- comprises gray matter (the cerebral cortex) and white matter at its center
+  - cerebral cortex = outer gray matter layer covering the cerebrum
+  - cerebral cortex is covered with ridges (gyri) and folds (sulci) - folds of brain.
 - deep sulci = fissures
 - fissures create 4 lobes in each hemisphere
+- the **corpus callosum** is a large C-shaped structure of white matter and nerve pathways at the center of the cerebrum (how the two hemispheres communicate)
+- right and left hemispheres
+  - right hemisphere controls left side of body; vice versa
+  - right hemisphere = controls creativity, spatial ability, artistic, musical skills
+  - left hemisphwere = controls speech, comprehension, arithmetic, writing
 
 ## Lobes of the brain
 
@@ -53,20 +76,20 @@ Subdivisions:
 
 ### Parietal Lobe
 - top of head
-- integrates information from our senses and directs attention
+- integrates information from our senses and directs attention (special, visual perception)
 - somatosensory cortex
-  - gives us our sense of touch
+  - gives us our sense of touch  
 
 ### Occipital Lobe
 - back of head
-- visual processing
+- visual processing (color, light, movement)
 - larger than other sensory processing centers
 
 ## CNS and PNS
 
 ### Central Nervous System (CNS)
+- CNS = brain + spinal cord
 - the spinal cord is essentially a bundle of nerve fibers that allow brain to communicate w/ motor and sensory pathways throughout the body to allow movement and regulation of organs
-- spinal cord + brain = central nervous system
 
 ### Peripherial Nervous System (PNS)
 - connects the CNS to organs, muscles, and sensory areas

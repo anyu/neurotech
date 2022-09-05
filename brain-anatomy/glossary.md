@@ -1,0 +1,3 @@
+- **afferent neurons** (aka. sensory neurons): nerve fibers that bring sensory info from outside world into brain
+- **efferent neurons** (aka. motor neurons): nerve fibers that carry signals from brain to the PNS
+- **subcortical**: below the cerebral cortex; not visible from surface of brain

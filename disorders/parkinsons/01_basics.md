@@ -24,7 +24,7 @@ Neurons in the **basal ganglia** (specifically in the *substantia nigra* which c
 - There is some loose indication that exercise in mid age + caffeine consumption could decrease risk
 - Medication exists to reduce effect of symptoms, but become less effective.
   - common medications: levodopa/carbidopa combinations
-- Deep brain stimulation (DBS). Invasive surgery where electrodes are placed in specific areas of the brain (usually subthalamic nucleus or global pallidus interna) and connected to a battery-powered device (the "neurostimulator") placed below the collarbone that delivers electrical pulses through the electrodes.
+- Deep brain stimulation (DBS). Invasive surgery where electrodes are placed in specific areas of the brain (usually subthalamic nucleus or global pallidus interna) and connected to a battery-powered device (the "neurostimulator") placed below the collarbone that delivers electrical pulses through the electrodes. See [DBS](02_dbs.md).
 
 ### Stats
 - ~1mil out of 330mil people in the US have PD
